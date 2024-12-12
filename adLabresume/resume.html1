@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shubham Kumar Sahay - Resume</title>
+    <link rel="stylesheet" href="resume.css" />
+  </head>
+  <body>
+    <div class="contact-info">
+      <div>
+        <h1>Shubham Kumar Sahay</h1>
+        <p>CSE Undergraduate, KIIT</p>
+      </div>
+      <div>
+        <p>Patna, Bihar</p>
+        <p>8210385012</p>
+        <p>22052241@kiit.ac.in</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Experience</h2>
+      <ul>
+        <li>
+          <strong
+            >Kshitiksha Foundation, Remote — Content Writing Intern</strong
+          >
+          <p>May 2024 - June 2024</p>
+          <p>
+            Raised funds for underprivileged students through campaigns and
+            provided insightful articles on different social topics.
+          </p>
+        </li>
+        <li>
+          <strong>Cyber Peace Corps, Bhubaneswar — Member</strong>
+          <p>March 2024 - Present</p>
+          <p>
+            Active member of the cybersecurity domain for a recognized
+            organization at my university.
+          </p>
+        </li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p>
+        <strong>B.Tech CSE</strong>, Kalinga Institute of Industrial Technology
+      </p>
+      <p>September 2022 - Present</p>
+    </div>
+
+    <div class="section">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <strong>Rock Paper Scissors Game</strong>
+          <p>
+            Created a simple game using HTML and CSS as one of my starting
+            projects.
+          </p>
+        </li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <p>
+        C, HTML, CSS, React, JavaScript, Java, SQL, Git, Leadership, Management,
+        Teamwork, Data Structures
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Languages</h2>
+      <ul>
+        <li>English - Professional</li>
+        <li>Hindi - Native</li>
+        <li>Spanish - Elementary</li>
+      </ul>
+    </div>
+  </body>
+</html>
